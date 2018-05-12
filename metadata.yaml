@@ -1,0 +1,49 @@
+_repo: Quentin-Durward_18825
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Defauconpret, A.-J.-B. (Auguste-Jean-Baptiste)
+    aliases:
+    - Defauconpret, Auguste-Jean-Baptiste
+    - Defauconpret, Auguste Jean Baptiste
+    - Fauconpret, C. (Auguste-Jean-Baptiste)
+    birthdate: 1767
+    deathdate: 1843
+    gutenberg_agent_id: '5678'
+    url: http://www.gutenberg.org/2009/agents/5678
+    wikipedia: http://en.wikipedia.org/wiki/Auguste_Defauconpret
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18825'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louis XI, King of France, 1423-1483 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Scots -- France -- Fiction'
+- !lcsh 'France -- History -- Louis XI, 1461-1483 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Charles, Duke of Burgundy, 1433-1477 -- Fiction'
+title: Quentin Durward
+url: http://www.gutenberg.org/ebooks/18825
